@@ -1,11 +1,16 @@
 _repo: The-land-of-gold-reality-versus-fiction_69295
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69295-h/images/cover.jpg
 creator:
   author:
     agent_name: Helper, Hinton R.
     gutenberg_agent_id: '55199'
     url: http://www.gutenberg.org/2009/agents/55199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69295#The-land-of-gold-reality-versus-fiction
 gutenberg_issued: '2022-11-05'
 identifiers:
   gutenberg: '69295'
